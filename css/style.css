@@ -116,7 +116,7 @@ div{
 }
 
 footer{
-    background: linear-gradient(0deg, #000000, #0000ff 25%, #0066ff 70%, #000000);
+    background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
     border: 5px solid white;
     text-align: right;
     padding-top: 15px;
